@@ -6,7 +6,7 @@ title: Handong Li
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
