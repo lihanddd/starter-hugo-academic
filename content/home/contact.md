@@ -29,13 +29,12 @@ content:
   phone: +86 15101512180
   address:
     city: Beijing
-    district: Haidian
+    region: Haidian
     postcode: '100143'
     country: China
     country_code: CN
   office_hours:
     - '09:00 to 24:00'
-  appointment_url: 'https://calendly.com'
 
 design:
   columns: '2'
