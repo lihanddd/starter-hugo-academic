@@ -22,11 +22,11 @@ feature:
   name: Python
 - description: c/cpp
   icon: fa-solid fa-c
-  icon_pack: fab
+  icon_pack: fas
   name: C/Cpp
 - description: 10%
   icon: fa-solid fa-piano
-  icon_pack: fab
+  icon_pack: fas
   name: Piano
 
 # Uncomment to use emoji icons.
