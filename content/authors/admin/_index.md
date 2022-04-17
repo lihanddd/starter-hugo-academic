@@ -30,7 +30,7 @@ education:
     year: 2013 - 2019
   - course: undergraduate in Artificial Intelligence
     institution: Beijing Institute of Technology
-    year: 2019 - 2013
+    year: 2019 - 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
