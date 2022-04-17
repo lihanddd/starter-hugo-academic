@@ -16,17 +16,17 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: python
+- description: coding
   icon: a-brands fa-python
   icon_pack: fab
   name: Python
-- description: c/cpp
+- description: coding
   icon: fa-solid fa-c
-  icon_pack: fas
+  icon_pack: ai
   name: C/Cpp
-- description: 10%
+- description: amateur
   icon: fa-solid fa-piano
-  icon_pack: fas
+  icon_pack: ai
   name: Piano
 
 # Uncomment to use emoji icons.
