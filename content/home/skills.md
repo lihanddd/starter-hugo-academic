@@ -17,15 +17,15 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: coding
-  icon: a-brands fa-python
+  icon: fa-python
   icon_pack: fab
   name: Python
 - description: coding
-  icon: fa-regular fa-c
+  icon: fa-c
   icon_pack: far
   name: C/Cpp
 - description: amateur
-  icon: fa-regular fa-piano
+  icon: fa-piano
   icon_pack: far
   name: Piano
 - description: amateur
