@@ -6,11 +6,7 @@ title: Handong Li
 superuser: true
 
 # Role/position/tagline
-<<<<<<< HEAD
 role: undergraduate of Artificial Intelligence
-=======
-role: undergraduate of Artificial Intelligence
->>>>>>> 5f21e591809096e4396a750b95945f17bd49ae1c
 
 # Organizations/Affiliations to show in About widget
 organizations:
