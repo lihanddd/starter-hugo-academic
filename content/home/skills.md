@@ -21,19 +21,19 @@ feature:
   icon_pack: fab
   name: Python
 - description: coding
-  icon: fa-c
-  icon_pack: fas
+  icon: fa-regular fa-c
+  icon_pack: far
   name: C/Cpp
 - description: amateur
-  icon: fa-piano
-  icon_pack: fas
+  icon: fa-regular fa-piano
+  icon_pack: far
   name: Piano
 - description: amateur
-  icon: ai-overleaf
+  icon: ai ai-overleaf
   icon_pack: ai
   name: overleaf
 - description: amateur
-  icon: ai-stackoverflow
+  icon: ai ai-stackoverflow
   icon_pack: ai
   name: stackoverflow
 
