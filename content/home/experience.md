@@ -30,6 +30,7 @@ experience:
     date_start: '2020-06-01'
     date_end: '2021-09-01'
     description: |2-
+        The school made a big innovation in 2020, applied the Yolov5 algorithm to the OCR field, and used the ICDAR2014 data set to train a yolo model that can achieve accurate text positioning.
         Responsibilities include:
         
         * Analysing
@@ -43,7 +44,7 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.The school made a big innovation in 2020, applied the Yolov5 algorithm to the OCR field, and used the ICDAR2014 data set to train a yolo model that can achieve accurate text positioning.
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
