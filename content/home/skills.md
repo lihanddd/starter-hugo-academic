@@ -28,25 +28,9 @@ feature:
 - icon: fa-brands fa-android
   icon_pack: fab
   name: Android Developer
-- icon: fa-brands fa-bilibili
-  icon_pack: fab
-  name: BiliBili up
 - icon: fa-brands fa-docker
   icon_pack: fab
-  name: docker user
-- icon: fa-brands fa-github
-  icon_pack: fab
-  name: github user
-- icon: ai ai-overleaf
-  icon_pack: ai
-  name: overleaf user
-- icon: ai ai-stackoverflow
-  icon_pack: ai
-  name: stackoverflow user
-- icon: ai ai-arxiv
-  icon_pack: ai
-  name: arxiv user
-
+  name: docker
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
