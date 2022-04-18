@@ -53,6 +53,21 @@ experience:
         * Read related papers
         * Built the model with pytorch
 
+  - title: researcher
+    company: Beijing Institute of Technology
+    company_url: 'https://english.bit.edu.cn/'
+    company_logo: bit
+    location: Beijing
+    date_start: '2021-12-01'
+    date_end: ''
+    description: |2-
+        Rreferring Expression Comprehension. Given a description in natural language, the goal is to understand the expectation to accurately find the region corresponding to the description in an image. Models require joint understanding and reasoning of the textual and visual domains.
+        We try to implemente a model which can mask out the semantically identical parts of the image and natural language in multiscale space.
+        Responsibilities include:
+        
+        * Read related papers
+        * Built the model with pytorch
+
 design:
   columns: '2'
 ---
