@@ -21,13 +21,21 @@ feature:
   icon_pack: fab
   name: Python
 - description: coding
-  icon: fa-solid fa-c
-  icon_pack: ai
+  icon: fa-c
+  icon_pack: fas
   name: C/Cpp
 - description: amateur
-  icon: fa-solid fa-piano
-  icon_pack: ai
+  icon: fa-piano
+  icon_pack: fas
   name: Piano
+- description: amateur
+  icon: ai-overleaf
+  icon_pack: ai
+  name: overleaf
+- description: amateur
+  icon: ai-stackoverflow
+  icon_pack: ai
+  name: stackoverflow
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
