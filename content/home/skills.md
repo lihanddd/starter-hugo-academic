@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills and tools
+title: Skills and Tools
 subtitle:
 
 # Showcase personal skills or business features.
