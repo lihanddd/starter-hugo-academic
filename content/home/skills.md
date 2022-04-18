@@ -16,24 +16,19 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: coding
-  icon: fa-python
+- icon: fa-brands fa-python
   icon_pack: fab
   name: Python
-- description: coding
-  icon: fa-c
+- icon: fa-regular fa-c
   icon_pack: far
   name: C/Cpp
-- description: amateur
-  icon: fa-piano
+- icon: fa-regular fa-piano
   icon_pack: far
   name: Piano
-- description: amateur
-  icon: ai ai-overleaf
+- icon: ai ai-overleaf
   icon_pack: ai
   name: overleaf
-- description: amateur
-  icon: ai ai-stackoverflow
+- icon: ai ai-stackoverflow
   icon_pack: ai
   name: stackoverflow
 
