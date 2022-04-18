@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Skills and tools
 subtitle:
 
 # Showcase personal skills or business features.
@@ -39,25 +39,19 @@ feature:
 - icon: "c"
   icon_pack: "custom"
   name: "C"
-  description: "c"
 - icon: "cpp"
   icon_pack: "custom"
-  name: "Cpp"
-  description: "cpp"
+  name: "C++"
 - icon: "java"
   icon_pack: "custom"
   name: "Java"
-  description: "java"
 - icon: "python"
   icon_pack: "custom"
-  name: "python"
-  description: "python"
+  name: "Python"
 - icon: "mysql"
   icon_pack: "custom"
-  name: "mysql"
-  description: "mysql"
+  name: "MySQL"
 - icon: "pytorch"
   icon_pack: "custom"
-  name: "pytorch"
-  description: "pytorch"
+  name: "PyTorch"
 ---
