@@ -19,18 +19,34 @@ feature:
 - icon: fa-brands fa-python
   icon_pack: fab
   name: Python
-- icon: fa-regular fa-c
-  icon_pack: far
-  name: C/Cpp
-- icon: fa-regular fa-piano
-  icon_pack: far
-  name: Piano
+- icon: fa-brands fa-linux
+  icon_pack: fab
+  name: linux
+- icon: fa-brands fa-markdown
+  icon_pack: fab
+  name: markdown
+- icon: fa-brands fa-android
+  icon_pack: fab
+  name: Android Developer
+- icon: fa-brands fa-bilibili
+  icon_pack: fab
+  name: BiliBili up
+- icon: fa-brands fa-docker
+  icon_pack: fab
+  name: docker user
+- icon: fa-brands fa-github
+  icon_pack: fab
+  name: github user
 - icon: ai ai-overleaf
   icon_pack: ai
-  name: overleaf
+  name: overleaf user
 - icon: ai ai-stackoverflow
   icon_pack: ai
-  name: stackoverflow
+  name: stackoverflow user
+- icon: ai ai-arxiv
+  icon_pack: ai
+  name: arxiv user
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
