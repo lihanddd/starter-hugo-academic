@@ -30,8 +30,10 @@ experience:
     date_start: '2020-06-01'
     date_end: '2021-09-01'
     description: |2-
-        National Undergraduate Training Programs for Innovation and Entrepreneurship in 2020. 
+        Undergraduate Training Programs for Innovation and Entrepreneurship in 2020. 
+
         We applied the Yolov5 algorithm to the OCR field, and used the ICDAR2014 dataset to train a yolo model that can achieve accurate text detection.
+
         Responsibilities include:
         
         * Organize and lead team members
@@ -46,8 +48,10 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        National Undergraduate Training Programs for Innovation and Entrepreneurship in 2021.
+        Undergraduate Training Programs for Innovation and Entrepreneurship in 2021.
+
         We implemented a model that converts RGB images to Thermal maps on the FLIR dataset using CycleGAN.
+
         Responsibilities include:
         
         * Read related papers
@@ -63,6 +67,7 @@ experience:
     description: |2-
         Rreferring Expression Comprehension. Given a description in natural language, the goal is to understand the expectation to accurately find the region corresponding to the description in an image. Models require joint understanding and reasoning of the textual and visual domains.
         We try to implemente a model which can mask out the semantically identical parts of the image and natural language in multiscale space.
+
         Responsibilities include:
         
         * Read related papers
