@@ -14,9 +14,24 @@ zh:
  contentDir: content/zh
  title: 个人主页
  params:
-   description: Site description in Chinese...
+   description: lihanddd的个人主页
  menu:
    main:
-     - name: 传
-       url: '#about'
-       weight: 1
+      - name: 简介
+        url: '#about'
+        weight: 10
+      # - name: Posts
+      #   url: '#posts'
+      #   weight: 20
+      - name: 项目
+        url: '#projects'
+        weight: 30
+      # - name: Talks
+      #   url: '#talks'
+      #   weight: 40
+      # - name: Publications
+      #   url: '#featured'
+      #   weight: 50
+      - name: 联系
+        url: '#contact'
+        weight: 60
