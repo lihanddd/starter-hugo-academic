@@ -1,6 +1,6 @@
 ---
 title: NeuTalk
-summary: A simple LAN chat software
+summary: 一款简洁的局域网聊天软件
 tags:
 - course project
 date: "2021-08-10T00:00:00Z"

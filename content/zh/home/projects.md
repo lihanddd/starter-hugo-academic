@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: 项目展示
 subtitle: ''
 
 content:
@@ -27,13 +27,13 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Computer Vision
+  - name: 计算机视觉
     tag: computer vision
-  - name: NLP
+  - name: 自然语言处理
     tag: nlp
-  - name: Deep Learning
+  - name: 深度学习
     tag: deep learning
-  - name: Course Project
+  - name: 课程项目
     tag: course project
 
 design:

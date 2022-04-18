@@ -1,6 +1,6 @@
 ---
-title: Big Data Analysis and Application
-summary: Various Implement of Chinese Word Segmentation
+title: 大数据分析与应用
+summary: 汉语分词的多种方法实现
 tags:
 - nlp
 - course project

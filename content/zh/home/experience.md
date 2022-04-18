@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 实习经历
+title: 项目经历
 subtitle:
 
 # Date format for experience
