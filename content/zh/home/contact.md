@@ -27,10 +27,10 @@ content:
   # Contact details (edit or remove options as required)
   email: lihanddd@outlook.com
   address:
-    city: Beijing
-    region: Haidian
+    city: 北京市
+    region: 海淀区
     postcode: '100143'
-    country: China
+    country: 中国
     country_code: CN
   office_hours:
     - '09:00 to 24:00'
