@@ -58,5 +58,5 @@ email: "lihanddd@outlook.com"
 highlight_name: true
 ---
 
-Hi. Welcome to my personal homepage. I am an undergraduate student who entered Beijing Institute of Technology in 2019, majoring in Artificial Intelligence. My research interests include Computer Vision, Reinforcement Learning and Natural Language Processing. Now living in Beijing. I'm looking for a mentor in the same direction as my research to pursue a master's degree, please contact me if I meet your requirements.
+An undergraduate student who is majoring in Artificial Intelligence (Beijing Institute of Technology in 2019). My research interests include Computer Vision, Reinforcement Learning and Natural Language Processing. Currently living in Beijing while also seeking a mentor in the same direction as my research in order to obtain a master’s degree, please contact via the details below if interested. 
 

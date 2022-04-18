@@ -11,7 +11,7 @@ role: undergraduate of Artificial Intelligence
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Beijing Institute of Technology
-  url: https://www.bit.edu.cn/
+  url: https://english.bit.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest includes computer vision, reinforcement learning and natural language processing.
@@ -47,9 +47,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lihanddd@outlook.com"
@@ -58,6 +58,4 @@ email: "lihanddd@outlook.com"
 highlight_name: true
 ---
 
-Hi. Welcome to my personal homepage. I am an undergraduate student who entered Beijing Institute of Technology in 2019, majoring in Artificial Intelligence. My research interests include Computer Vision, Reinforcement Learning and Natural Language Processing. Now living in Beijing. I'm looking for a mentor in the same direction as my research to pursue a master's degree, please contact me if I meet your requirements.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+An undergraduate student who is majoring in Artificial Intelligence (Beijing Institute of Technology in 2019). My research interests include Computer Vision, Reinforcement Learning and Natural Language Processing. Currently living in Beijing while also seeking a mentor in the same direction as my research in order to obtain a master’s degree, please contact via the details below if interested. 
