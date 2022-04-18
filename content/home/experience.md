@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Internship Experience
 subtitle:
 
 # Date format for experience
@@ -22,14 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: team leader
+    company: Beijing Institute of Technology
+    company_url: 'https://english.bit.edu.cn/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Beijing
+    date_start: '2020-06'
+    date_end: '2021-09'
     description: |2-
+        The school made a big innovation in 2020, applied the Yolov5 algorithm to the OCR field, and used the ICDAR2014 data set to train a yolo model that can achieve accurate text positioning.
         Responsibilities include:
         
         * Analysing

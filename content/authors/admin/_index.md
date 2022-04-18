@@ -6,7 +6,7 @@ title: Handong Li
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: undergraduate of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -58,6 +58,6 @@ email: "lihanddd@outlook.com"
 highlight_name: true
 ---
 
-Hi. Welcome to my personal homepage. I am an undergraduate student who entered Beijing Institute of Technology in 2019, majoring in artificial intelligence. My research interests include computer vision, reinforcement learning and natural language processing. Now living in Beijing. I'm looking for a mentor in the same direction as my research to pursue a master's degree, please contact me if I meet your requirements.
+Hi. Welcome to my personal homepage. I am an undergraduate student who entered Beijing Institute of Technology in 2019, majoring in Artificial Intelligence. My research interests include Computer Vision, Reinforcement Learning and Natural Language Processing. Now living in Beijing. I'm looking for a mentor in the same direction as my research to pursue a master's degree, please contact me if I meet your requirements.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
