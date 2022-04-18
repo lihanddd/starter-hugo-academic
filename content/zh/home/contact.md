@@ -26,7 +26,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: lihanddd@outlook.com
-  phone: +86 15101512180
   address:
     city: Beijing
     region: Haidian
