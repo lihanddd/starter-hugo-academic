@@ -66,7 +66,7 @@ experience:
     date_end: ''
     description: |2-
         Rreferring Expression Comprehension. Given a description in natural language, the goal is to understand the expectation to accurately find the region corresponding to the description in an image. Models require joint understanding and reasoning of the textual and visual domains.
-        We try to implemente a model which can mask out the semantically identical parts of the image and natural language in multiscale space.
+        We try to implement a model which can mask out the semantically identical parts of the image and natural language in multiscale space.
 
         Responsibilities include:
         
