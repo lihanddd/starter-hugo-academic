@@ -1,35 +1,35 @@
 ---
 # Display name
-title: Handong Li
+title: 李翰东
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: undergraduate of Artificial Intelligence
+role: 人工智能专业 本科生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Beijing Institute of Technology
-  url: https://english.bit.edu.cn/
+- name: 北京理工大学
+  url: https://bit.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest includes computer vision, reinforcement learning and natural language processing.
+bio: 我的个人研究兴趣包括计算机视觉、强化学习和自然语言处理
 
 # Interests to show in About widget
 interests:
-- Computer Vision
-- Reinforcement Learning
-- NLP
+- 计算机视觉
+- 强化学习
+- 自然语言处理
 
 # Education to show in About widget
 education:
   courses:
-  - course: high school
-    institution: Beijing National Day School
+  - course: 2年初中 4年高中
+    institution: 北京十一学校
     year: 2013 - 2019
-  - course: undergraduate in Artificial Intelligence
-    institution: Beijing Institute of Technology
+  - course: 人工智能专业 本科生
+    institution: 北京理工大学
     year: 2019 - 2023
 
 # Social/Academic Networking
@@ -58,4 +58,5 @@ email: "lihanddd@outlook.com"
 highlight_name: true
 ---
 
-An undergraduate student who is majoring in Artificial Intelligence (Beijing Institute of Technology in 2019). My research interests include Computer Vision, Reinforcement Learning and Natural Language Processing. Currently living in Beijing while also seeking a mentor in the same direction as my research in order to obtain a master’s degree, please contact via the details below if interested. 
+人工智能专业本科生（北京理工大学2019级）。 我的研究兴趣包括计算机视觉、强化学习和自然语言处理。 目前居住在北京，同时也在寻求与我研究方向相同的导师以获得硕士学位，如有兴趣，请您通过以下方式联系我。
+
