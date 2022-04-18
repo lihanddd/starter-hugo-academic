@@ -29,7 +29,7 @@ experience:
     location: Beijing
     date_start: '2020-06'
     date_end: '2021-09'
-    description: |2-
+    description: 
         The school made a big innovation in 2020, applied the Yolov5 algorithm to the OCR field, and used the ICDAR2014 data set to train a yolo model that can achieve accurate text positioning.
         Responsibilities include:
         
