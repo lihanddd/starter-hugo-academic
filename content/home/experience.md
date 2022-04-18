@@ -25,7 +25,7 @@ experience:
   - title: team leader
     company: Beijing Institute of Technology
     company_url: 'https://english.bit.edu.cn/'
-    company_logo: org-gc
+    company_logo: uploads/BIT.jpg
     location: Beijing
     date_start: '2020-06-01'
     date_end: '2021-09-01'
@@ -41,7 +41,7 @@ experience:
   - title: team member
     company: Beijing Institute of Technology
     company_url: 'https://english.bit.edu.cn/'
-    company_logo: org-gc
+    company_logo: uploads/BIT.jpg
     location: Beijing
     date_start: '2021-09-01'
     date_end: ''
