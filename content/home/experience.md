@@ -30,21 +30,28 @@ experience:
     date_start: '2020-06-01'
     date_end: '2021-09-01'
     description: |2-
-        The school made a big innovation in 2020, applied the Yolov5 algorithm to the OCR field, and used the ICDAR2014 data set to train a yolo model that can achieve accurate text positioning.
+        National Undergraduate Training Programs for Innovation and Entrepreneurship in 2020. 
+        We applied the Yolov5 algorithm to the OCR field, and used the ICDAR2014 dataset to train a yolo model that can achieve accurate text detection.
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Organize and lead team members
+        * Develop a phased research plan
+        * Built the model with pytorch
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: team member
+    company: Beijing Institute of Technology
+    company_url: 'https://english.bit.edu.cn/'
+    company_logo: org-gc
+    location: Beijing
+    date_start: '2021-09-01'
+    date_end: ''
+    description: |2-
+        National Undergraduate Training Programs for Innovation and Entrepreneurship in 2021.
+        We implemented a model that converts RGB images to Thermal maps on the FLIR dataset using CycleGAN.
+        Responsibilities include:
+        
+        * Read related papers
+        * Built the model with pytorch
 
 design:
   columns: '2'
