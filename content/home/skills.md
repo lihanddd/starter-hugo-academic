@@ -16,9 +16,6 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: fa-brands fa-python
-  icon_pack: fab
-  name: Python
 - icon: fa-brands fa-linux
   icon_pack: fab
   name: linux
@@ -28,9 +25,6 @@ feature:
 - icon: fa-brands fa-android
   icon_pack: fab
   name: Android Developer
-- icon: fa-brands fa-docker
-  icon_pack: fab
-  name: docker
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -54,14 +48,14 @@ feature:
   icon_pack: "custom"
   name: "Java"
   description: "java"
-- icon: "mysql"
-  icon_pack: "custom"
-  name: "mysql"
-  description: "mysql"
 - icon: "python"
   icon_pack: "custom"
   name: "python"
   description: "python"
+- icon: "mysql"
+  icon_pack: "custom"
+  name: "mysql"
+  description: "mysql"
 - icon: "pytorch"
   icon_pack: "custom"
   name: "pytorch"
