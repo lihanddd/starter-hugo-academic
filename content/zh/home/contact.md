@@ -25,7 +25,6 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: lihanddd@outlook.com
   address:
     city: 北京市
     region: 海淀区
