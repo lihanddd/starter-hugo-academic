@@ -17,7 +17,7 @@ links:
 - icon: fa-brands fa-github
   icon_pack: fab
   name: Follow
-  url: https://github.com/lihanddd/Big-Data-Analysis-and-Application
+  url: https://github.com/Andrew0613/Big-Data-Analysis-and-Application
 url_code: ""
 url_pdf: ""
 url_slides: ""
